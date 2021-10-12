@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanika Patil</h1>
-<h3 align="center">A passionate Frontend Developer and an Open source enthusiast</h3>
+<h3 align="center">Frontend Developer | Open source contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika2103&label=Profile%20views&color=0e75b6&style=flat" alt="sanika2103" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanikaa_21" target="blank"><img src="https://img.shields.io/twitter/follow/sanikaa_21?logo=twitter&style=for-the-badge" alt="sanikaa_21" /></a> </p>
 
-- 🌱 I’m currently learning **C++ , DS/Algo**
+- 🌱 I’m currently learning **C++ , DS/Algo , Competitive Programming**
 
 - 📝 I regularly write articles on [https://sanikapatil.hashnode.dev/](https://sanikapatil.hashnode.dev/)
 
