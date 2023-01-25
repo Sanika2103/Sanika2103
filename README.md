@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sanikaa_21" target="blank"><img src="https://img.shields.io/twitter/follow/sanikaa_21?logo=twitter&style=for-the-badge" alt="sanikaa_21" /></a> </p>
 
-- 🌱 I’m currently learning **C++ , DS/Algo , Competitive Programming**
+- 🌱 I’m currently learning **Backend , DS/Algo , Competitive Programming**
 
 - 📝 I regularly write articles on [https://sanikapatil.hashnode.dev/](https://sanikapatil.hashnode.dev/)
 
